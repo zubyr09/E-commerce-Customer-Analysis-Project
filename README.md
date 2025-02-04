@@ -11,7 +11,7 @@ This project was completed as part of the **Data Science & Machine Learning with
 
 ## 📁 Project Files
 - [`E-Commerce_Analysis.ipynb`](E-Commerce_Analysis.ipynb): Jupyter Notebook containing full analysis
-- [`E-Commerce_Data.csv`] (https://github.com/zubyr09/E-commerce-Customer-Analysis-Project/blob/main/E-Commerce_Data.csv): Synthetic dataset (30,000 records)
+- [`E-Commerce_Data.csv`](https://github.com/zubyr09/E-commerce-Customer-Analysis-Project/blob/main/E-Commerce_Data.csv): Synthetic dataset (30,000 records)
 - `README.md`: Project documentation
 
 
