@@ -48,7 +48,7 @@ This project was completed as part of the **Data Science & Machine Learning with
 
 ### Demographic Insights
 - 👥 **Gender Distribution**: 87 Structural Engineers (43 Male, 44 Female)
-- 🎯 **Alberta Focus**: XX female Structural Engineers in AB province
+- 🎯 **Alberta Focus**: 4 female Structural Engineers in AB province
 - 🕒 **Shopping Times**: AM/PM distribution analysis
 
 ## 🚀 Getting Started
