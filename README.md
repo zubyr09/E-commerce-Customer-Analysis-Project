@@ -6,12 +6,12 @@
 ![Dataset](https://img.shields.io/badge/Records-30k-orange)
 
 ## 📋 Project Overview
-This project was completed as part of the **Data Analysis with Pandas** course on [Ostad](https://ostad.app/) - Bangladesh's premier skill development platform. It analyzes synthetic e-commerce data from `E-Commerce_Data.csv` containing **30,000 customer records** while protecting user privacy. The analysis focuses on answering key business questions using Python and Pandas to derive actionable insights about customer behavior and purchasing patterns.
+This project was completed as part of the **Data Science & Machine Learning with Python** course on [Ostad](https://ostad.app/) - Bangladesh's premier skill development platform. It analyzes synthetic e-commerce data from `E-Commerce_Data.csv` containing **30,000 customer records** while protecting user privacy. The analysis focuses on answering key business questions using Python and Pandas to derive actionable insights about customer behavior and purchasing patterns.
 
 
 ## 📁 Project Files
-- `E-Commerce_Analysis.ipynb`: Jupyter Notebook containing full analysis
-- `E-Commerce_Data.csv`: Synthetic dataset (30,000 records)
+- [`E-Commerce_Analysis.ipynb`](E-Commerce_Analysis.ipynb): Jupyter Notebook containing full analysis
+- [`E-Commerce_Data.csv`] (E-Commerce_Data.csv): Synthetic dataset (30,000 records)
 - `README.md`: Project documentation
 
 
