@@ -1,4 +1,3 @@
-# E-commerce-Customer-Analysis-Project
 # E-commerce Customer Analysis Project
 
 ![Pandas Analysis](https://img.shields.io/badge/Pandas-1.5.3-blue)
@@ -8,7 +7,6 @@
 ## 📋 Project Overview
 This project analyzes synthetic e-commerce data containing **30,000 customer records** while protecting user privacy. The analysis focuses on answering key business questions using Python and Pandas to derive actionable insights about customer behavior and purchasing patterns.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](your_colab_link_here)
 
 ## 🎯 Key Questions Answered
 1. Peak shopping days analysis
@@ -17,7 +15,7 @@ This project analyzes synthetic e-commerce data containing **30,000 customer rec
 4. High-value customer identification
 5. Customer engagement patterns
 6. Email provider popularity
-7. Special cases analysis (zero spenders, expired cards, etc.)
+7. Special case analysis (zero spenders, expired cards, etc.)
 
 ## 🛠️ Technologies Used
 - **Python 3**
