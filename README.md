@@ -51,5 +51,4 @@ This project was completed as part of the **Data Science & Machine Learning with
 - 🎯 **Alberta Focus**: 4 female Structural Engineers in AB province
 - 🕒 **Shopping Times**: AM/PM distribution analysis
 
-## 🚀 Getting Started
 
